@@ -1,0 +1,20 @@
+.description{
+    font-size: 18px;
+}
+
+body{
+    background-color: black;
+    color: white;
+    font-family: 'Courier New', Courier, sans-serif;
+    margin: 20px;
+    
+}
+
+.title{
+    background-color: purple;
+}
+
+img{
+    height: auto;
+    width: 310px;
+}
